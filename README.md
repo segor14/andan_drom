@@ -2,6 +2,8 @@
 
 <a href="https://github.com/segor14/andan_drom/blob/main/merged.ipynb" target="_blank"> Весь проект </a> для удобства разделен на три части: <a href="https://github.com/segor14/andan_drom/blob/main/Парсинг.ipynb" target="_blank"> парсинг </a>, <a href="https://github.com/segor14/andan_drom/blob/main/Обработка_и_визуализация.ipynb" target="_blank"> обработка собранных данных и EDA </a>, <a href="https://github.com/segor14/andan_drom/blob/main/Гипотезы_и_МО.ipynb" target="_blank"> проверка гипотез и построение моделей машинного обучения </a>
 
+## Собранные данные
+В файлах <a href="https://github.com/segor14/andan_drom/blob/main/data_raw%20(1).csv" target="_blank">data_raw (1).csv</a> и <a href="https://github.com/segor14/andan_drom/blob/main/data_processed.csv" target="_blank">data_processed.csv</a> содержатся изначальные и обработанные данные соответственно. 
 
 ## Содержание проекта:
 <ul>
